@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="26C6549E-E897-66D9-BAC2-B7DFC519C9FC" name="ALUNO" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="684B12FB-0B91-E512-8AA3-7486ED084007" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="FF16BC42-88FE-3A32-AABB-6FB072E60D62" name="PROFESOR" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="684B12FB-0B91-E512-8AA3-7486ED084007" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="270FD7DA-D158-FB3C-D80E-3CA229152CAC" name="TURMA" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="684B12FB-0B91-E512-8AA3-7486ED084007" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>

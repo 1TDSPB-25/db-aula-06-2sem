@@ -1,0 +1,63 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="FF16BC42-88FE-3A32-AABB-6FB072E60D62" name="PROFESOR">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-09-11 14:33:51 UTC</createdTime>
+<ownerDesignName>aula3_1TDSPB</ownerDesignName>
+<engineerTo>
+<item key="E6BF5434-4827-6FD8-08F1-E2D835914403" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="nome" id="DD55CD4B-D6DD-1AD9-5C56-2071B8406494">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-09-11 14:38:15 UTC</createdTime>
+<ownerDesignName>aula3_1TDSPB</ownerDesignName>
+<engineerTo>
+<item key="E6BF5434-4827-6FD8-08F1-E2D835914403" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="data_nascimento" id="4B96847A-D1FF-35B6-2CE6-C246420782F2">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-09-11 14:38:20 UTC</createdTime>
+<ownerDesignName>aula3_1TDSPB</ownerDesignName>
+<engineerTo>
+<item key="E6BF5434-4827-6FD8-08F1-E2D835914403" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cpf" id="53B20F00-64B5-6E31-DCF1-115751C7748A">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-09-11 14:38:25 UTC</createdTime>
+<ownerDesignName>aula3_1TDSPB</ownerDesignName>
+<engineerTo>
+<item key="E6BF5434-4827-6FD8-08F1-E2D835914403" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="rm" id="3DD11FFA-72C7-8F8C-0FF3-6ABC1940A963">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-09-11 14:38:28 UTC</createdTime>
+<ownerDesignName>aula3_1TDSPB</ownerDesignName>
+<engineerTo>
+<item key="E6BF5434-4827-6FD8-08F1-E2D835914403" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>
